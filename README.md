@@ -30,6 +30,8 @@ Banco de Dados (SQLite):
  - Realizei testes e interações utilizando Insomnia para API e Beekeeper para o banco de dados.
  - Essas tecnologias, combinadas, proporcionaram um ambiente de desenvolvimento robusto, ágil e eficiente para a aplicação de gerenciamento de fornecedores.
 
+  ![image](https://github.com/LeonardoAlbano/gesplan-teste-frontend-leoalbano/assets/102124207/be15b238-ec61-4a72-bdba-7f6fb591a17c)
+
 
 Para executar
 
@@ -38,6 +40,9 @@ Frontend (React):
  - Instale as dependências usando npm install.
  - Execute a aplicação com npm run dev utilizando o Vite.
  - Acesse a aplicação no navegador através do endereço fornecido no console.
+
+
+
 
 Backend (Node.js):
 
