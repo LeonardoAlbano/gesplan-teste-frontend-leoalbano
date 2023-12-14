@@ -32,6 +32,9 @@ Banco de Dados (SQLite):
 
   ![image](https://github.com/LeonardoAlbano/gesplan-teste-frontend-leoalbano/assets/102124207/be15b238-ec61-4a72-bdba-7f6fb591a17c)
 
+  ![image](https://github.com/LeonardoAlbano/gesplan-teste-frontend-leoalbano/assets/102124207/4eb3d7ce-2f23-4c8a-88db-37acbcdaca04)
+
+
 
 Para executar
 
