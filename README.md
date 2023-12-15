@@ -1,7 +1,6 @@
 
 # DESAFIO GESPLAN
 
-Aprendendo sobre orientação e objeto
 
 
 
